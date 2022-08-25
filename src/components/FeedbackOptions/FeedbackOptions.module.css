@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 10px;
+}
+
+.btn {
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+}
